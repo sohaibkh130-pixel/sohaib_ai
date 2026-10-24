@@ -1,0 +1,6 @@
+{
+  "name": "Sohaib AI",
+  "description": "A premium multilingual AI assistant powered by Gemini with native support for Moroccan Darija, Arabic, French, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
